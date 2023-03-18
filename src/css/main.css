@@ -99,7 +99,7 @@ form button:hover {transform: scale(1.1)}
     transform: scale(1.01);
 }
 
-div h2 {
-    width: 290px;
-   
+.dataTime {
+    float: right;
+    width: 230px;
 }
